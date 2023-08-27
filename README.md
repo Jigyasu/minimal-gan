@@ -1,4 +1,4 @@
-# simple-gan-example
+# A minimal GAN example
 ## Dependencies
 - pytorch
 - torchvision
